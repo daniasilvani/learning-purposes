@@ -1,4 +1,3 @@
-<p align="center">
 # Hello 👋
 ## 🚀 This repo is used for learning purposes which contains source code for me and [ismlhbb](https://github.com/ismlhbb) learning journey on course platform progate </br>
 ![banner](https://github.com/daniasilvani/learning-purposes/blob/master/header.svg)
@@ -13,4 +12,3 @@
 
 ## Learning Resources
 * Join progate for [free](http://progate.com)
-</p>
