@@ -1,6 +1,8 @@
 ## Hello 👋
-#### 🚀This repo is used for learning purposes which contains source code for me and [ismlhbb](https://github.com/ismlhbb) learning journey on course platform progate
-### The source code is based on my exercise  on any couses I have completed,  such as
+### 🚀 This repo is used for learning purposes which contains source code for me and [ismlhbb](https://github.com/ismlhbb) learning journey on course platform progate </br>
+![banner](https://github.com/daniasilvani/learning-purposes/blob/master/header.svg)
+</br>
+#### The source code is based on my exercise  on any couses I have completed,  such as 
 - `html` 
 - `css`
 - `javascript` 
